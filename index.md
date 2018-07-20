@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+{% include ![image](https://user-images.githubusercontent.com/39673380/43010911-bb20f5b0-8c39-11e8-8e59-7913a3885fa4.png) %}
 
 <br>
 
